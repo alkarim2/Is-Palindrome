@@ -1,0 +1,1 @@
+The challenge was to create a HTML, CSS and JavaScript website that takes text as input then states whether the text is a palindrome or not as output. The languages used were HTML, CSS and JavaScript. How it works is by the user inputting text into the website then a result is displayed stating whether the text is a palindrome or not.
